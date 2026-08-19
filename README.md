@@ -6,6 +6,14 @@ FlowPilot is a modern, high-performance SaaS landing page built for AI workload 
 
 ---
 
+## 🌐 Live Demo & Deployment
+
+- **Live Site URL:** [https://acdyon-technologies.vercel.app](https://acdyon-technologies.vercel.app)
+- **GitHub Repository:** [https://github.com/Aditya-kumar2004/Acdyon_Technologies](https://github.com/Aditya-kumar2004/Acdyon_Technologies)
+- **Challenge Explanation:** [`DECISIONS.md`](./DECISIONS.md)
+
+---
+
 ## ✨ Features & Highlights
 
 - **⚡ Lightning-Fast Performance**: Built with React 19, Vite, and Tailwind CSS v4.
